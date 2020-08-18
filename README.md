@@ -1,5 +1,4 @@
-# WelcomeGIT
-Print Welcome on Console in Different Languages.
+#WelcomeGit
 
 C Programmig
 ------------------------------------------------------------------------------------------------------------------------------------------
